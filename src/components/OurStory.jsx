@@ -10,6 +10,7 @@ const OurStory = () => {
       icon: '❤️',
       title: 'The day we met',
       description: 'A moment that changed everything',
+      image: '/memories/WhatsApp Image 2026-03-13 at 23.28.45.jpeg',
     },
     {
       id: 2,
